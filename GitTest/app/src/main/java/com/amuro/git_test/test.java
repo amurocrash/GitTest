@@ -2,6 +2,6 @@ public class test
 {
 	public void testMethod()
 	{
-		System.out.println("1234");
+		System.out.printlin("asddfffd");
 	}
 }
